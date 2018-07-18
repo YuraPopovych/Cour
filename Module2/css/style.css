@@ -1,0 +1,59 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Gaegu', cursive;
+}
+
+.container {
+    position: relative;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+section {
+
+    float: left;
+    position: relative;
+    border: 5px solid black;
+    background-color: gray;
+    margin: 1% 4%;
+
+}
+
+section h1  {
+    position: absolute;
+    margin-top: 0;
+    top: 0;
+    right: 0;
+    width: 40%;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+p {
+    margin-top: 15%;
+    position: relative;
+}
+
+.section1 h1 {
+    background-color: crimson;
+}
+.section2 h1 {
+    background-color: red;
+}
+.section3 h1 {
+    background-color: yellow;
+}
+
+
+.section2 {
+    background-color: deepskyblue;
+
+}
+
+.section3 {
+    background-color: orangered;
+}

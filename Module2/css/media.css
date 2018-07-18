@@ -1,0 +1,31 @@
+@media screen and (min-width: 992px) {
+    section {
+        width: 25%;
+
+    }
+
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .section2 {
+        float: right;
+        position: relative;
+        right: 0;
+    }
+
+    .section3 p {
+        margin-top: 5%;
+    }
+
+    .section1 , .section2 {
+        width: 30%;
+    }
+    .section3 {
+        width: 92%;
+
+    }
+}
+
+
+
+
+
