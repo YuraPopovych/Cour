@@ -1,2 +1,2 @@
-# Cour
+
 John Hopkins University
